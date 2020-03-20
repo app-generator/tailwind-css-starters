@@ -39,8 +39,6 @@ Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Tailwi
 - [PurgeCSS](https://www.purgecss.com/) for optimizing CSS output
 - [UglifyJS](https://www.npmjs.com/package/uglify-js) for a simple JS build pipeline
 
-<br />
-
 ### Starter Links
 
 - [Eleventy Tailwind Starter](https://eleventy-tailwind-starter.appseed.us) - Live DEMO
