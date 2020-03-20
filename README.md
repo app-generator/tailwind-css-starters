@@ -32,9 +32,9 @@ According to the official website, it is a utility-first CSS framework for rapid
 
 **Blog Articles**
 
-- [10+ Free Tailwind CSS Templates & Resources](https://www.creative-tim.com/blog/web-development/free-tailwind-css-templates-resources/)
-- [Setting Up Tailwind CSS In A React Project](https://www.smashingmagazine.com/2020/02/tailwindcss-react-project/)
-- [Introducing TailwindCSS ](https://scotch.io/@paschaldev/introducing-tailwindcss) ― Scotch.io
+- [10+ Free Tailwind CSS Templates & Resources](https://www.creative-tim.com/blog/web-development/free-tailwind-css-templates-resources/) ― **Creative-tim**
+- [Setting Up Tailwind CSS In A React Project](https://www.smashingmagazine.com/2020/02/tailwindcss-react-project/) ― **SmashingMagazine**
+- [Introducing TailwindCSS ](https://scotch.io/@paschaldev/introducing-tailwindcss) ― **Scotch.io**
 
 <br />
 
