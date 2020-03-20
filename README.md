@@ -2,6 +2,16 @@
 
 A curated list with resources (starters, blog articles) related to [Tailwind CSS](https://tailwindcss.com/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
+<br />
+
+## What is [Tailwind CSS](https://tailwindcss.com/)
+
+Tailwind CSS is different from frameworks like Bootstrap, Foundation, or Bulma because it is not a UI kit, and it does not have default themes or built-in UI components. It is a very powerful framework in terms of customization, of course, if you don’t mind the repetition in your markup, because you can make any website you can imagine.
+
+According to the official website, it is a utility-first CSS framework for rapidly building custom designs. Tailwind CSS is a highly customizable, low-level CSS framework that gives developers all of the building blocks they need to build bespoke designs without any annoying opinionated styles.
+
+<br />
+
 ## Tailwind Resources short-list
 
 **Links**
